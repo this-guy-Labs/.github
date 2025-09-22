@@ -15,4 +15,4 @@ this guy Labs is an invovator in programming and game developement.
 
 💡 **Have an idea or want to contribute?** [Share it with us!](mailto:thisguy@thisguylabs.com)
 
-</div>
+</div>                                                                                                  
